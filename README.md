@@ -23,6 +23,8 @@ This project addresses several key questions to uncover insights from the data. 
 ```sql
 SELECT * FROM HR_comma_sep$;
 ```
+![image](https://github.com/Sudarshan028/sql_HR_Analysis/assets/160358210/897f0c31-cfc6-4280-9eda-909863e47cb6)
+
 
 ### Number of Employees per Department
 ```sql
